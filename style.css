@@ -34,4 +34,10 @@ body {
 .player-move img {
   height: 100px;
   width: 100px;
+  cursor: pointer;
+}
+
+.choice {
+  display: flex;
+  justify-content: center;
 }
